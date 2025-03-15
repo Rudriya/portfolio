@@ -27,7 +27,7 @@ const projectsData = [
     description: "Project 3",
     image: "/images/projects/3.png",
     tag: ["All", "ML"],
-    gitUrl: "#",
+    gitUrl: "https://github.com/Rudriya/IR-VISION-ADVANCED-IMAGE-PROCESSING-FOR-INFRARED-ANALYSIS",
   },
   {
     id: 4,
@@ -43,7 +43,7 @@ const projectsData = [
     description: "Project 5",
     image: "/images/projects/5.jpeg",
     tag: ["All", "ML"],
-    gitUrl: "#",
+    gitUrl: "https://github.com/Rudriya/DROWSINESS-DETECTION",
   },
 ];
 
